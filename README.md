@@ -1,7 +1,7 @@
 Olá! Eu sou o Samuel de Sousa, estudo programação voltado para o backend
 
 - 🌱 Estudando C# - JS - CSS - HTML
-- 📫 Contate-me no email: Samunickinho@gmail.com
+- 📫 Contate-me no email: samuelsousaml2@gmail.com
 - 🎮 Apaixonado por Jogos, Animes e Tecnologia.
 
   
